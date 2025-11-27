@@ -6,5 +6,4 @@ Estructura:
 - assets/js/main.js       -> Interacciones JS (smooth scroll)
 - assets/img/profile-placeholder.png -> Imagen de perfil de placeholder
 
-Incluye también:
-- Leonardo_Arens_CV.pdf  -> CV en formato ATS optimizado (texto plano, fácil de leer por parsers)
+
